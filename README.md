@@ -19,7 +19,7 @@ slack.py --nodename ${NodeName} --incidentmessage ${IncidientMessage}
 - output sample
 
 ```
-$ python3 slack.py --nodename hostname --incidentmessage "Node_Down"
+$ python3 slack.py --nodename hostname --incidentmessage Node_Down
 
 hostname: Node_Down
 ```
