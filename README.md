@@ -1,6 +1,6 @@
 # nnmi-autoactionscript
 
-## slack.py
+## Send message to slack
 
 ### usage
 
