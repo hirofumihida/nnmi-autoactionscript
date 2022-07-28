@@ -6,7 +6,7 @@
 
 - set OS environment
 
-WEBHOOK_URL
+export WEBHOOK_URL=https://hooks.slack.com/services/foobar
 
 - command options
 
