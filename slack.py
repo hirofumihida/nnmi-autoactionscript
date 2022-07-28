@@ -26,8 +26,6 @@ payload_dic = {
 
 payload=json.dumps(payload_dic)
 
-#print payload
-
 def main():
     message=requests.post(url, data=payload)
     print(now, message)
